@@ -1,9 +1,6 @@
 # Cyber-Guardian-An-AI-Powered-Phishing-Detection-Platform
 CyberGuardian is an AI powered phishing detection platform that tracks system, network events, detects threats using rules or ML models, and visualizes activity through a web UI. It provides APIs for event ingestion and querying, anomaly detection, and alerts via email, SMS, and Slack for corporate, educational, and personal monitoring.
 
-
-Executive Summary: CyberGuardian is a hypothetical security monitoring platform that provides real-time threat detection, user activity auditing, and alerting. The README serves as a comprehensive map to understand, install, configure, and contribute to the project. It guides new developers through setup steps, architecture, API usage, and development best practices, ensuring anyone can clone the repo and get running in minutes.
-
 Table of Contents
 Project Overview
 Features
