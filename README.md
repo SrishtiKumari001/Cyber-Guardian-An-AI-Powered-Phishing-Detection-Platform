@@ -49,18 +49,6 @@ Example architecture flowchart showing components
 Figure: Example system architecture diagram.
 As a best practice, include a high-level architecture diagram of your system components and interactions. For example, a Mermaid diagram (flowchart or sequence) can show how users, API servers, databases, and external services connect. Below is a simple example using Mermaid syntax (GitHub renders this natively):
 
-HTTP Request
-
-uses
-
-User
-
-Backend API
-
-Database (Events/Logs)
-
-Alerting Service
-
 Web UI
 <img width="1890" height="870" alt="image 1 front page" src="https://github.com/user-attachments/assets/dc7a8aa1-7e4c-4b0f-892b-0ed5fe8db97c" />
 
@@ -93,7 +81,7 @@ Installation
 Clone the repository:
 bash
 Copy
-git clone https://github.com/yourusername/cyberguardian.git
+git clone https://github.com/SrishtiKumari001/cyberguardian.git
 cd cyberguardian
 Install dependencies: Depending on your chosen stack:
 Node: npm install (or yarn install) in the project root (and in /frontend if applicable).
